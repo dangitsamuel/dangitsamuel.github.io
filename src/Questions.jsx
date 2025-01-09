@@ -17,7 +17,7 @@ function Questions() {
     },
     {
       question: "What is the RSVP deadline?",
-      answer: "April 10th, 2025"
+      answer: "April 9th, 2025"
     },
     {
       question: "What should I do if I have dietary restrictions?",

@@ -2,9 +2,9 @@ import "./Donations.css"
 
 function Donations() {
     return (
-        <div>
-            <div className="bold">Your presence is the most precious gift of all!</div>
-            <div className="italic">However if you would like to contribute to your new journey together, we graciously accept</div>
+        <div className="donation-container">
+            <div className="bold">Your presence at our celebration is the most treasured gift we could receive!</div>
+            <div className="italic">If you wish to help us start our new chapter together, we would gratefully welcome a monetary contribution.</div>
             <div className="bullet-points">
                 <div>Venmo</div>
                 <div>Zelle</div>
