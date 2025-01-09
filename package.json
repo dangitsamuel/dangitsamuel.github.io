@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "deploy": "gh-pages -d dist --repo https://github.com/maksimovichsam/dangitsam.git",
+    "deploy": "gh-pages -d dist --repo https://github.com/dan9gitsamuel/dangitsamuel.github.io.git",
     "preview": "vite preview"
   },
   "dependencies": {

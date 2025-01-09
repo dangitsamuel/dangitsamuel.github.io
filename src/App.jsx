@@ -10,8 +10,8 @@ function App() {
 
             {/* <div className="my-header-title">our wedding day</div> */}
             <div className="my-header-title">
-                <img className='sparkle-left' src="/sparkles-left.png" />
-                <svg width="600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 50">
+                {/* <img className='sparkle-left' src="/sparkles-left.png" /> */}
+                <svg width="600" viewBox="0 0 500 50">
                     <path id="curve"
                         d="M50,50 A400,100 0 0,1 450,50"
                         fill="transparent"
@@ -23,7 +23,7 @@ function App() {
                         </textPath>
                     </text>
                 </svg>
-                <img className='sparkle-right' src="/sparkles-right.png" />
+                {/* <img className='sparkle-right' src="/sparkles-right.png" /> */}
             </div>
             <div className="rings">
                 <img src="/rings.png" height="100%" />

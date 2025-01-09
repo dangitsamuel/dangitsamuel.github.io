@@ -51,7 +51,7 @@
 }
 .sparkle-right {
     height: 40px;
-    transform: rotate(10deg) translate(-100%, 0px);
+    transform: rotate(10deg) translate(-100%, 10px);
 }
 
 .chandle-container {
@@ -65,7 +65,7 @@
     position: sticky;
     top: 0px;
     left: 0px;
-    height: 275px;
+    height: 295px;
 }
 
 .table-container {
