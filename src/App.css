@@ -99,8 +99,13 @@
 }
 
 .my-name {
-    margin-top: 50px;
     font-size: 54px;
+    font-family: 'CustomFont2', sans-serif;
+}
+
+.font3 {
+    font-family: 'CustomFont3', sans-serif;
+    font-size: 100px;
 }
 
 .my-date {

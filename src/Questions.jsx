@@ -4,6 +4,10 @@ import { Card, CardContent } from "@/components/ui/card";
 function Questions() {
   const faqs = [
     {
+      question: "Who's getting married?",
+      answer: "Sam Maksimovich and Rachel Dang"
+    },
+    {
       question: "What is the dress code?",
       answer: "We ask that your attire be summer cocktail in pastel or neutral hues."
     },

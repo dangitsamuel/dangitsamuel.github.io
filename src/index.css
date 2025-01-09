@@ -36,6 +36,20 @@ img {
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'CustomFont2';
+    src: url('font2.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CustomFont3';
+    src: url('font3.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html {
     font-family: 'CustomFont', sans-serif;
 }
@@ -110,7 +124,7 @@ svg, img {
 }
 
 * {
-    -webkit-tap-highlight-color:  #3759a9; 
+    -webkit-tap-highlight-color:  #b4bed4; 
 }
 
 ::-webkit-scrollbar {

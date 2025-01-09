@@ -28,7 +28,7 @@ function App() {
             <div className="rings">
                 <img src="/rings.png" height="100%" />
             </div>
-            <div className="my-name">Rachel & Sam</div>
+            <div className="my-name">Rachel <span className='font3'>&</span> Sam</div>
             <div className="my-date">Saturday, May 10, 2025</div>
             <div className="my-date">Ceremony at 4:00 pm</div>
             <div className="my-date">Grace Vineyards</div>
