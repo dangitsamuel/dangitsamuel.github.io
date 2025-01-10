@@ -58,6 +58,10 @@ svg, img {
     font-family: 'CustomFont', sans-serif;
 }
 
+a {
+    color: blue;
+}
+
 @layer base {
   :root {
         --background: 0 0% 100%;
